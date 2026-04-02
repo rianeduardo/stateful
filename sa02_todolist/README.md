@@ -1,3 +1,3 @@
-# sa02_todolist
+# TODO LIST | DEPENDENCIAS | Rian Eduardo
 
-A new Flutter project.
+- Fluttertoast
