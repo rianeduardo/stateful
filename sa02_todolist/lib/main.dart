@@ -90,6 +90,7 @@ class _MainAppState extends State<MainApp> {
           "titulo": _tarefaController.text.trim(),
           "concluida": false,
         });
+        _tarefaController.clear();
       });
     } else {
       Fluttertoast.showToast(
